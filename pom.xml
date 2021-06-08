@@ -15,11 +15,6 @@
     </dependency>
   </dependencies>
   <distributionManagement>
-<properties>
-    <maven.compiler.source>1.6</maven.compiler.source>
-    <maven.compiler.target>1.6</maven.compiler.target>
-</properties>
-
 		<repository>
 			<id>Maven-release</id>
 			<url>http://localhost:8081/nexus/content/repositories/Maven-release/</url>
